@@ -431,3 +431,18 @@ footer {
 footer p {
   text-align: center;
 }
+.article-container article div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.article-container article h3 {
+  min-width: 100px;
+  text-align: center;
+}
+
+.article-container article p {
+  min-width: 100px;
+  text-align: center;
+}
