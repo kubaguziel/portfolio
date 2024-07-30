@@ -363,8 +363,8 @@ article .icon {
 
 .project-img {
   border-radius: 2rem;
-  width: 90%;
-  height: 90%;
+  width: 300px;
+  height: 300px;
 }
 
 .project-title {
@@ -446,3 +446,7 @@ footer p {
   min-width: 100px;
   text-align: center;
 }
+
+/* .aliens {
+  height: 280px;
+} */
